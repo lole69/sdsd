@@ -125,7 +125,7 @@ namespace bazaprojekt
             public Spajanje()
             {
                 // Initialize the SqlConnection here
-                connection = new SqlConnection(@"Data Source=localhost\SQLEXPRESS;Initial Catalog=room_management;Integrated Security=True;");
+                connection = new SqlConnection(@"Data Source=192.168.43.180,51302\SQLEXPRESS;Initial Catalog=room_management;User ID=room_mng;Password=12345");
             }
             // Public method to get the singleton instance
             public static Spajanje Instance
