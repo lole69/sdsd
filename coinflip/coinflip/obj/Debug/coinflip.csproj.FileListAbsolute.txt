@@ -1,0 +1,10 @@
+C:\Users\lovro\source\repos\coinflip\coinflip\bin\Debug\coinflip.exe.config
+C:\Users\lovro\source\repos\coinflip\coinflip\bin\Debug\coinflip.exe
+C:\Users\lovro\source\repos\coinflip\coinflip\bin\Debug\coinflip.pdb
+C:\Users\lovro\source\repos\coinflip\coinflip\obj\Debug\coinflip.csproj.AssemblyReference.cache
+C:\Users\lovro\source\repos\coinflip\coinflip\obj\Debug\coinflip.Form1.resources
+C:\Users\lovro\source\repos\coinflip\coinflip\obj\Debug\coinflip.Properties.Resources.resources
+C:\Users\lovro\source\repos\coinflip\coinflip\obj\Debug\coinflip.csproj.GenerateResource.cache
+C:\Users\lovro\source\repos\coinflip\coinflip\obj\Debug\coinflip.csproj.CoreCompileInputs.cache
+C:\Users\lovro\source\repos\coinflip\coinflip\obj\Debug\coinflip.exe
+C:\Users\lovro\source\repos\coinflip\coinflip\obj\Debug\coinflip.pdb
